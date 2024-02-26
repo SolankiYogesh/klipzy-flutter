@@ -42,3 +42,12 @@ app.*.map.json
 /android/app/profile
 /android/app/release
 klikli-backend/node_modules
+# Generated directories:
+.nyc_output/
+coverage/
+dist/
+node_modules/
+
+# Project files:
+*.sublime-*
+package-lock.json
